@@ -44,8 +44,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MamdouhAlsaudi&show_icons=true&theme=tokyonight" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamdouhAlsaudi&layout=compact&theme=tokyonight" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=MamdouhAlsaudi&show_icons=true&theme=tokyonight" height="170">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamdouhAlsaudi&layout=compact&theme=tokyonight" height="170">  
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MamdouhAlsaudi&theme=tokyonight&hide_border=true" height="170">  
+<br><br>
+<img src="https://github-contribution-graph.ezapo.dev/api?username=MamdouhAlsaudi&bg_color=0d1117&color=4c8eda&line=4c8eda&point=ffffff&area=true&hide_border=true" height="170">
 
 </div>
 
