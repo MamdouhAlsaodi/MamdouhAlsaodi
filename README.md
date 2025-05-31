@@ -6,12 +6,10 @@
 <details>
 <summary><strong>🎧 Currently coding while vibing to:</strong></summary>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-
 </details>
 
 ![Total Hits](https://komarev.com/ghpvc/?username=MamdouhAlsaudi&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/Contact-grey?style=flat&logo=telegram)](https://t.me/spxd007)
+[![telegram badge](MamdouhAlsaudi)
 
 </div>
 
