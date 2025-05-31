@@ -35,7 +35,7 @@
 - 🎓 2nd-year Computer Science student at **UniFacvest**
 - 🖥️ System and desktop applications development
 - 🐧 GNU/Linux and open-source software enthusiast
-- 💬 Ask me about: **C, C++, C#, Java, databases, or PC building**
+- 💬 Ask me about: **C, C++, C#, Java, databases**
 - ⚡ Fun Fact: Coding at 2 AM is my favorite workout 😂
 
 ---
