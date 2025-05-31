@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Tech Stack | Tecnologias que uso
+## 🚀 Tech Stack
 
 **Languages & Frameworks**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -30,12 +30,12 @@
 
 ---
 
-## 👨‍💻 About Me | Sobre Mim
+## 👨‍💻 About Me
 
-- 🎓 2º ano de **Ciência da Computação** na **UniFacvest**
-- 🖥️ Desenvolvimento de sistemas e aplicações desktop
-- 🐧 Amante do **GNU/Linux** e software livre
-- 💬 Me pergunte sobre: **C, C++, C#, Java, banco de dados, ou montagem de PC**
+- 🎓 2nd-year **Computer Science** student at **UniFacvest**
+- 🖥️ Focused on system development and desktop applications
+- 🐧 GNU/Linux and open-source software enthusiast
+- 💬 Ask me about: **C, C++, C#, Java, databases, or PC building**
 - ⚡ Fun Fact: Coding at 2 AM is my favorite workout 😂
 
 ---
@@ -63,10 +63,11 @@
 
 ## 📬 Contact Me
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548988171123)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/spxd007)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamdouhalsaudi@gmail.com)
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=MamdouhAlsaudi&style=for-the-badge&color=orange)](https://github.com/MamdouhAlsaudi)
 
 ---
 
 > **✨ Mamdouh Alsaudi | Made with ❤️ & GNU/Linux**
-
