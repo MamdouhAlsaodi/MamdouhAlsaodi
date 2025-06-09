@@ -5,7 +5,6 @@
 # 👋 Hi there! I'm Mamdouh Alsaodi  
 🎓 2nd-year Computer Science student at **UniFacvest**  
 🖥️ Passionate about system development and desktop applications  
-🐧 GNU/Linux enthusiast | 📦 Open Source Supporter  
 
 </div>
 
@@ -24,9 +23,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 ---
 
@@ -34,9 +32,7 @@
 
 - 🎓 2nd-year Computer Science student at **UniFacvest**
 - 🖥️ System and desktop applications development
-- 🐧 GNU/Linux and open-source software enthusiast
-- 💬 Ask me about: **C, C++, C#, Java, databases**
-- ⚡ Fun Fact: Coding at 2 AM is my favorite workout 😂
+- ⚡ Fun Fact: Coding at 5 AM is my favorite workout 😂
 
 ---
 
@@ -70,4 +66,4 @@
 
 ---
 
-> **✨ Mamdouh Alsaodi | Made with ❤️ & GNU/Linux**
+> **✨ Mamdouh Alsaodi 
