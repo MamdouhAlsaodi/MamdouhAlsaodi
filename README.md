@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Languages & Frameworks**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -32,7 +32,7 @@
 
 - 🎓 2nd-year Computer Science student at **UniFacvest**
 - 🖥️ System and desktop applications development
-- ⚡ Fun Fact: Coding at 5 AM is my favorite workout 😂
+- ⚡ Fun Fact: Coding at 5 AM is my favorite workout 
 
 ---
 
@@ -66,4 +66,4 @@
 
 ---
 
-> **✨ Mamdouh Alsaodi**
+> ** Mamdouh Alsaodi**
