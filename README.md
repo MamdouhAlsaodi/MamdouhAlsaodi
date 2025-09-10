@@ -32,7 +32,7 @@
 ![Backend](https://img.shields.io/badge/Backend_Development-333333?style=for-the-badge&logo=serverless&logoColor=white)
 ![.NET Developer](https://img.shields.io/badge/.NET_Developer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Database](https://img.shields.io/badge/Database_Management-CC2927?style=for-the-badge&logo=database&logoColor=white)
-
+![Database](https://img.shields.io/badge/Database_Development-CC2927?style=for-the-badge&logo=database&logoColor=white)
 ---
 
 ## 👨‍💻 About Me
