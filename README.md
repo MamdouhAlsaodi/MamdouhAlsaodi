@@ -4,7 +4,7 @@
 
 # 👋 Hi there! I'm Mamdouh Alsaodi  
 🎓 2nd-year Computer Science student at **UniFacvest**  
-🖥️ Passionate about system development and desktop applications  
+🖥️ Passionate about system development and desktop applications, backend & full stack development, and intelligent agents**  
 
 </div>
 
@@ -16,6 +16,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 **Platforms & Tools**  
@@ -25,6 +27,11 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+**Development Roles**  
+![Full Stack](https://img.shields.io/badge/Full_Stack_Development-0A66C2?style=for-the-badge&logo=stackshare&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend_Development-333333?style=for-the-badge&logo=serverless&logoColor=white)
+![.NET Developer](https://img.shields.io/badge/.NET_Developer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Database](https://img.shields.io/badge/Database_Management-CC2927?style=for-the-badge&logo=database&logoColor=white)
 
 ---
 
