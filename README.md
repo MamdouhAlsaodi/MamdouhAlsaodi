@@ -45,10 +45,12 @@
 ---
 
 ## 📊 GitHub Stats 
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=MamdouhAlsaodi&show_icons=true&theme=tokyonight" height="170"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamdouhAlsaodi&layout=compact&theme=tokyonight" height="170"> 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MamdouhAlsaodi&show_icons=true&theme=tokyonight" height="170" alt="Mamdouh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamdouhAlsaodi&layout=compact&theme=tokyonight" height="170" alt="Mamdouh's Top Languages" />
 </div>
+
 > **Mamdouh Alsaodi** — GitHub Statistics Overview 📈
 
 
