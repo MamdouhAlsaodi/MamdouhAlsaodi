@@ -36,7 +36,7 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MamdouhAlsaodi&repo=اسم-أفضل-مشروع-عندك&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MamdouhAlsaodi&repo=DVLD-Full-Stack-Database&theme=tokyonight" />
 </p>
 
 ## 👨‍💻 About Me
