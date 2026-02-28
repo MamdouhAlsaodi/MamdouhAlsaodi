@@ -33,10 +33,15 @@
 ![.NET Developer](https://img.shields.io/badge/.NET_Developer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Database](https://img.shields.io/badge/Database_Management-CC2927?style=for-the-badge&logo=database&logoColor=white)
 ---
+## 🚀 Featured Projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MamdouhAlsaodi&repo=اسم-أفضل-مشروع-عندك&theme=tokyonight" />
+</p>
 
 ## 👨‍💻 About Me
 
-- 🎓 2nd-year Computer Science student at **UniFacvest**
+- 🎓 3nd-year Computer Science student at **UniFacvest**
 - 🖥️ System and desktop applications development
 - ⚡ Fun Fact: Coding at 5 AM is my favorite workout 
 
