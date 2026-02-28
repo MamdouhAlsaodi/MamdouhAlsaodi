@@ -61,12 +61,6 @@
 
 ---
 
-## 🔁 Developer Cycle
-
-<div align="center">
-  <code>Vibe</code> 🎧 → <code>Code</code> 💻 → <code>Debug</code> 🐞 → <code>Deploy</code> 🚀
-</div>
-
 ---
 
 ## 📬 Contact Me
