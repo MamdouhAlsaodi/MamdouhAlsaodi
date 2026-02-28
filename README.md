@@ -47,8 +47,8 @@
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MamdouhAlsaodi&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamdouhAlsaodi&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MamdouhAlsaodi&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MamdouhAlsaodi&layout=compact&theme=tokyonight" height="170">
 </p>
 
 > **Mamdouh Alsaodi** — GitHub Statistics Overview 📈
