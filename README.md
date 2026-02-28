@@ -34,9 +34,11 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-**Vibe & Philosophy** ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF69B4?style=for-the-badge&logo=music&logoColor=white)
-![Programming](https://img.shields.io/badge/Programming-000000?style=for-the-badge&logo=codeforces&logoColor=white)
-
+**Core Specialization**
+![Full Stack Web](https://img.shields.io/badge/Full_Stack_Web-0A66C2?style=for-the-badge&logo=react&logoColor=white)
+![Desktop Development](https://img.shields.io/badge/Desktop_Development-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Database](https://img.shields.io/badge/Database_Management-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![System Solutions](https://img.shields.io/badge/System_Solutions-333333?style=for-the-badge&logo=linux&logoColor=white)
 ---
 
 ## 👨‍💻 About Me
