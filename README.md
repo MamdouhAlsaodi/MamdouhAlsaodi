@@ -5,7 +5,7 @@
 # 👋 Hi there! I'm Mamdouh Alsaodi  
 ![Visitors](https://komarev.com/ghpvc/?username=MamdouhAlsaodi&color=blueviolet&style=flat-square)
 
-🎓 2nd-year CS Student @ **UniFacvest** | 💻 **Full Stack Developer** | 🚀 **Vibe Coding Enthusiast**
+🎓 3nd-year CS Student @ **UniFacvest** | 💻 **Full Stack Developer** | 🚀 **Vibe Coding Enthusiast**
 
 </div>
 
